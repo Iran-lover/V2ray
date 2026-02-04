@@ -1,6 +1,1 @@
-vless://e004d6ec-babc-4e71-a3cd-502696c721bf@ch-alien.khodeimobile.com:8880?encryption=none&security=none&type=xhttp&host=happ.mobilezahra.com&path=%2F&mode=auto&extra=%7B%22scMaxEachPostBytes%22%3A%221000000%22%2C%22xPaddingBytes%22%3A%22100-1000%22%7D#%40filembad
-vless://36213657-e751-478b-a5d7-547eef892af9@dojman.global.ssl.fastly.net:443?encryption=none&security=tls&sni=dojman.global.ssl.fastly.net&fp=chrome&alpn=http%2F1.1&insecure=0&allowInsecure=0&type=ws&host=dojman.global.ssl.fastly.net&path=%2Fcontainers%2Ffi#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpsanFkYWx1MTMuLg@3.1.195.148:8319?#%F0%9F%87%B8%F0%9F%87%AC%20ShatakVPN%20986399
-vless://c295cfda-ac60-4472-927b-2f6d53661a6e@193.84.255.109:443?encryption=none&security=none&type=tcp&headerType=http&host=fsn.bestlive.ir#%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F%40FREE2CONFIG
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@46.38.147.4:5122?encryption=none&security=none&type=tcp&headerType=http&host=TABRIZ.NET#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20163729
-vless://dc4651a0-39c9-4e09-81f9-ef95aa993c8e@46.38.147.4:5122?encryption=none&security=none&type=tcp&headerType=http&host=filmnet.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20486186
