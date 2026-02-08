@@ -18,3 +18,6 @@ vless://dd0cfef0-fda9-47ec-8a65-49d7bc004f82@141.101.114.165:443?encryption=none
 vless://b3ab86ed-b74f-4ad3-badc-e987fa3ad2c3@185.215.228.252:31837?encryption=none&security=none&type=tcp&headerType=http&host=myket.ir#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20551511
 vless://c7126d17-f4a1-4582-a49b-761e1e7c70d9@85.133.197.244:921?encryption=none&security=none&type=tcp&headerType=http&host=pro30afzar.com#%F0%9F%87%AE%F0%9F%87%B7%20ShatakVPN%20673137
 vless://c92bc4cf-0db4-4662-9e4f-b9592e8e8692@mobileahmadiv1.top:35869?encryption=none&security=none&type=tcp&headerType=http&host=speedtest.net#%E2%97%8F%20%40ConfigV2RayNG
+vless://a8b11692-4d33-40a4-9ad8-13ac4032b9eb@market.chepschasb.shop:8443?encryption=none&security=reality&sni=yahoo.com&fp=random&pbk=BUjLNIFp1xPnpPuFKe7E035bvC2v85suKe3DuU_zVkA&sid=d7b32685ce664e36&spx=%2F&type=grpc#hamedp71%3A%3A%F0%9F%87%AB%F0%9F%87%AE
+vless://9f582467-6af2-4bdd-848e-93fdd84486ad@156.243.83.167:2087?encryption=none&security=tls&sni=ce.xo-connection.ir&insecure=0&allowInsecure=0&type=ws&host=ce.xo-connection.ir&path=%2Fdarkstrange#hamedp71%3A%3A%F0%9F%87%A9%F0%9F%87%AA
+vless://ada6ebdd-bdfa-44fb-989c-672051790aeb@v2tr.topacp.store:2053?encryption=none&security=none&type=tcp&headerType=http#%F0%9F%92%8E%40SimChin_iR
